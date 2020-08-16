@@ -1,142 +1,136 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Daniel Pedersoli ",
+    "description":"Belo Horizonte | Rio de Janeiro ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Sejam tod@s bem-vind@s! Sou doutorando em Relações Internacionais pelo Instituto de Relações Internacionais (IRI) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Cursei graduação e mestrado em Relações Internacionais na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente pesquiso em temas como: abordagens pós-fundacionais, pós-modernismo, pós-estruturalismo, análise de discurso, filosofia contemporânea, desconstrução derridiana, processos de identificação e de construção de identidade coletiva, nacionalismo(s). No âmbito da tese doutoral, minha pesquisa busca analisar a construção das identidades catalã e espanhola ao longo do século XX. Faço parte do grupo de pesquisa em Hermenêutica & Desconstrução, liderado pelo professor Paulo César Duque-Estrada (PUC-Rio). Desde fevereiro de 2020, sou também editor no E-International Relations.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "danielpedersoli@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"http://lattes.cnpq.br/4050905607209234",
+    "project":"https://orcid.org/0000-0002-1234-1502",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Belo Horizonte",
+      "state":"Minas Gerais",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1ad2kJ5KqSjGw0hpqaEq3ZsB-XKe79QGl/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/danielpedersoli",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/daniel-pedersoli/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Instituto de Relações Internacionais / Pontifícia Universidade Católica do Rio de Janeiro (IRI / PUC-Rio)",
+        "degree":"Doutorando em Relações Internacionais",
+        "graduated":"Em curso",
+        "description":"Tese: O Eu e o Outro na construção das identidads catalã e espanhola ao longo do século XX: um olhar derridiano (orientador: Roberto Vilchez Yamato) Rio de Janeiro, RJ, Brasil"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+        "degree":"Mestrado em Relações Internacionais",
+        "graduated":"2017 ",
+        "description":"Dissertação: Ecos de Gazimestan: a construção do discurso dos jornais The Guardian e The New York Times sobre o ex-líder s'’vio Slobodan Milosevic durante a Guerra do Kosovo (supervisor: Cristiano Mendes) DOI: 10.13140/RG.2.2.31358.61766 Belo Horizonte, MG, Brazil"
+      },
+      {
+        "school":"IBMEC ",
+        "degree":"CBA Comércio Internacional ",
+        "graduated":"2013",
+        "description":"Belo Horizonte, MG, Brasil"
+      },
+      {
+        "school":"Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+        "degree":"Graduação em Relações Internacionais",
+        "graduated":"2010 ",
+        "description":"Monografia: A Terceira Via e a construção de um novo trabalhismo: renovação da social-democracia mundial ou pragmatismo oportunista? (orientador: Cristiano Mendes) Belo Horizonte, MG, Brasil"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":" Instituto de Relações Internacionais (IRI) / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+        "title":"Estágio em docência",
+        "years":"Em curso",
+        "description":" Subject: European Union and Democracy Editor at E-International Relations Peer reviewer: Contexto Internacional - Journal of Global Connections"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Editor: E-International Relations",
+        "title":"",
+        "years":"Em curso",
+        "description":""
+      },
+      {
+        "company":"Revisor de periódico",
+        "title":"Contexto Internacional - Journal of Global Connections",
+        "years":"",
+        "description":"Rio de Janeiro, RJ, Brasil"
+      },
+      {
+        "company":"Voluntariado",
+        "title":"Malta, Itália e República Checa",
+        "years":"2018",
+        "description":""
+      },
+      {
+        "company":"Prefeitura Municipal de Betim",
+        "title":"Chefe da Divisão de Relações Internacionais ",
+        "years":"2015-2016",
+        "description":"Betim, MG, Brasil"
+      },
+      {
+        "company":"Central Exportaminas / Governo de Minas Gerais",
+        "title":"",
+        "years":"2012-2015",
+        "description":"Belo Horizonte, MG, Brasil"
+      },
+      {
+        "company":"Mini ONU - Modelo Intercolegial das Nações Unidas",
+        "title":"Voluntário, diretor-assistente, diretor de comitê",
+        "years":"2007-2010",
+        "description":"Belo Horizonte, MG, Brasil"
+      },
+      {
+        "company":"Number One / Cultura Inglesa ",
+        "title":"Professor de inglês e monitor de aprendizado",
+        "years":"2007-2009",
+        "description":"Belo Horizonte, MG, Brasil"
       }
     ],
+    "skillmessage":"Projetos e Pesquisas",
     "skills":[
       {
-        "name":"Python",
+        "name":"Criminalização dos protestos urbanos na França e na Catalunha",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Olhares derridianos sobre de construção das identidades catalã e espanhola ao longo do século XX",
+        "level":"85%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Grupo de Pesquisa em Hermenêutica e Desconstrução",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Experiences of the Coronavirus Shutdown: Three Months On ",
+        "category":"E-International Relations is staffed with an all-volunteer team of students, academics and practitoners/professionals from around the world",
+        "image":"lockdown-post.jpg",
+        "url":"https://www.e-ir.info/2020/06/16/experiences-of-the-coronavirus-shutdown-three-months-on/"
       }
     ]
   }

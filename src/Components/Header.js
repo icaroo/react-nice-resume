@@ -7,6 +7,8 @@ class Header extends Component {
     if(this.props.data){
        var project = this.props.data.project;
        var github = this.props.data.github;
+       var researchGate = this.props.data.researchGate;
+       var academia = this.props.data.academia;
       var name = this.props.data.name;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
@@ -17,17 +19,18 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      {/* <ParticlesBg type="custom" bg={true} /> */}
+      <ParticlesBg color="#316AC8"  num={8} type="cobweb" bg={true} />
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li><a className="smoothscroll" href="#about">Sobre</a></li>
+	         <li><a className="smoothscroll" href="#resume">Currículo</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Trabalhos</a></li>
+            <li><a className="smoothscroll" href="#contact">Contato</a></li>
          </ul>
       </nav>
 
@@ -38,8 +41,10 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>ORCID</a>
+               <a href={github} className="button btn github-btn"><i className="fa fa-book"></i>Lattes</a>
+               <a href={researchGate} className="button btn research-gate-btn"><i className="fa fa-book"></i>ResearchGate</a>
+               <a href={academia} className="button btn academia-btn"><i className="fa fa-book"></i>Academia.edu</a>
             </ul>
          </div>
       </div>
