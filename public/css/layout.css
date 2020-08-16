@@ -1006,7 +1006,8 @@ footer .social-links li:first-child { margin-left: 0; }
 #go-top a:hover { background-color: #0F9095; }
 
 
-.social .btn:first-child{
+/* /* .social .btn:first-child{ */
+.social .btn{ 
    margin-right: 30px;
 }
 .social .btn{
@@ -1021,11 +1022,11 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .github-btn{
    background-color: #34495e !important;
-   margin-right: 18px;
+   /* margin-right: 18px; */
 }
 .research-gate-btn{
    background-color: #1abc9c !important;
-   margin-right: 18px;
+   /* margin-right: 18px; */
 }
 .academia-btn{
    background-color: #34495e !important;
