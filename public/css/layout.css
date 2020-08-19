@@ -247,7 +247,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 #resume h1 span {
    border-bottom: 3px solid #0762f9;
-   padding-bottom: 6px;
+   /* padding-bottom: 6px; */
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -256,10 +256,17 @@ ul#nav li.current a { color: #fe6928; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
-   margin-bottom: 48px;
+
+.education {
+   margin-bottom: 48px; 
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+}
+
+.education, .work {
+   /* margin-bottom: 48px; */
+   /* padding-bottom: 24px; */
+   /* border-bottom: 1px solid #E8E8E8; */
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -277,8 +284,31 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skill Bars - Projects
 /*----------------------------------------------*/
+
+
+#projects a, #projects a:visited  { color: #0762f9; }
+#projects a:hover, #projects a:focus { color: #313131; }
+
+#projects h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #fff;
+}
+
+#projects {
+   background: #000524;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#projects h1 span {
+   border-bottom: 3px solid #0762f9;
+   /* padding-bottom: 6px; */
+}
 
 .bars {
 	width: 95%;
@@ -299,7 +329,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #fff;
 	text-transform: uppercase;
    letter-spacing: 2px;
    font-weight: normal;

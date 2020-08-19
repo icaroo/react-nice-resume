@@ -10,7 +10,7 @@ class Projects extends Component {
         }
         return color;
       }
-      
+
   render() {
 
     if (this.props.data) {
@@ -31,7 +31,7 @@ class Projects extends Component {
         <div className="row skill">
 
         <div className="three columns header-col">
-        <h1><span>Pesquisa e atuação</span></h1>
+        <h1><span>Projetos</span></h1>
         </div>
 
         <div className="nine columns main-col">
