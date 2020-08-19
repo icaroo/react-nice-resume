@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Daniel Pedersoli ",
-    "description":"Belo Horizonte | Rio de Janeiro ",
+    "description":"Belo Horizonte | Rio de Janeiro",
     "image":"profilepic.jpg",
-    "bio":"Sejam tod@s bem-vind@s! Sou doutorando em Relações Internacionais pelo Instituto de Relações Internacionais (IRI) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Cursei graduação e mestrado em Relações Internacionais na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente pesquiso em temas como: abordagens pós-fundacionais, pós-modernismo, pós-estruturalismo, análise de discurso, filosofia contemporânea, desconstrução derridiana, processos de identificação e de construção de identidade coletiva, nacionalismo(s). No âmbito da tese doutoral, minha pesquisa busca analisar a construção das identidades catalã e espanhola ao longo do século XX. Faço parte do grupo de pesquisa em Hermenêutica & Desconstrução, liderado pelo professor Paulo César Duque-Estrada (PUC-Rio). Desde fevereiro de 2020, sou também editor no E-International Relations.",
+    "bio":"Sou doutorando em Relações Internacionais pelo Instituto de Relações Internacionais (IRI) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Cursei graduação e mestrado em Relações Internacionais na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente pesquiso em temas como: abordagens pós-fundacionais, pós-modernismo, pós-estruturalismo, análise de discurso, filosofia contemporânea, desconstrução derridiana, processos de identificação e de construção de identidade coletiva, nacionalismo(s). No âmbito da tese doutoral, minha pesquisa busca analisar a construção das identidades catalã e espanhola ao longo do século XX. Faço parte do grupo de pesquisa em Hermenêutica & Desconstrução, liderado pelo professor Paulo César Duque-Estrada (PUC-Rio). Desde fevereiro de 2020, sou também editor no E-International Relations.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "danielpedersoli@gmail.com",
     "phone": "555-555-5555",
@@ -38,12 +38,14 @@
         "degree":"Doutorando em Relações Internacionais",
         "graduated":"Em curso",
         "description":"Tese: O Eu e o Outro na construção das identidads catalã e espanhola ao longo do século XX: um olhar derridiano (orientador: Roberto Vilchez Yamato) Rio de Janeiro, RJ, Brasil"
+						   
       },
       {
         "school":"Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
         "degree":"Mestrado em Relações Internacionais",
         "graduated":"2017 ",
         "description":"Dissertação: Ecos de Gazimestan: a construção do discurso dos jornais The Guardian e The New York Times sobre o ex-líder s'’vio Slobodan Milosevic durante a Guerra do Kosovo (supervisor: Cristiano Mendes) DOI: 10.13140/RG.2.2.31358.61766 Belo Horizonte, MG, Brazil"
+						   
       },
       {
         "school":"IBMEC ",
@@ -63,7 +65,7 @@
         "company":" Instituto de Relações Internacionais (IRI) / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
         "title":"Estágio em docência",
         "years":"Em curso",
-        "description":" Subject: European Union and Democracy Editor at E-International Relations Peer reviewer: Contexto Internacional - Journal of Global Connections"
+        "description":""
       },
       {
         "company":"Editor: E-International Relations",
@@ -135,3 +137,6 @@
     ]
   }
 }
+ 
+ 
+
