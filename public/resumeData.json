@@ -3,7 +3,7 @@
     "name":"Daniel Pedersoli ",
     "description":"Belo Horizonte | Rio de Janeiro",
     "image":"profilepic.jpg",
-    "bio":"Sou doutorando em Relações Internacionais pelo Instituto de Relações Internacionais (IRI) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Cursei graduação e mestrado em Relações Internacionais na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente pesquiso em temas como: abordagens pós-fundacionais, pós-modernismo, pós-estruturalismo, análise de discurso, filosofia contemporânea, desconstrução derridiana, processos de identificação e de construção de identidade coletiva, nacionalismo(s). No âmbito da tese doutoral, minha pesquisa busca analisar a construção das identidades catalã e espanhola ao longo do século XX. Faço parte do grupo de pesquisa em Hermenêutica & Desconstrução, liderado pelo professor Paulo César Duque-Estrada (PUC-Rio). Desde fevereiro de 2020, sou também editor no E-International Relations.",
+    "bio":"Sou doutorando em Relações Internacionais pelo Instituto de Relações Internacionais (IRI) da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Cursei graduação e mestrado em Relações Internacionais na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente meus projetos de pesquisa giram em torno de abordagens pós-fundacionais e filosofia contemporânea - especialmente a obra de Jacques Derrida - e de questões identitárias e nacionalismos. No âmbito da tese doutoral, analiso as estabilidades e instabilidades na construção das identidades catalã e espanhola ao longo do século XX. Faço parte do grupo de pesquisa em Hermenêutica & Desconstrução, liderado pelo professor Paulo César Duque-Estrada (PUC-Rio). Desde fevereiro de 2020, sou também editor no E-International Relations.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "danielpedersoli@gmail.com",
     "phone": "555-555-5555",
@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "url website",
-    "resumedownload":"https://drive.google.com/file/d/1ad2kJ5KqSjGw0hpqaEq3ZsB-XKe79QGl/view?usp=sharing",
+    "resumedownload":"",
     "social":[
       {
         "name":"twitter",
@@ -49,8 +49,8 @@
 				"location":" Belo Horizonte, MG, Brazil"
       },
       {
-        "school":"IBMEC ",
-        "degree":"CBA Comércio Internacional ",
+        "school":" Instituto Brasileiro de Mercado de Capitais (IBMEC) ",
+        "degree":"Certificate of Business Administration (CBA) em Comércio Internacional",
         "graduated":"2013",
         "description":"",
         "location":" Belo Horizonte, MG, Brazil"
@@ -71,8 +71,8 @@
         "description":""
       },
       {
-        "company":"Editor: E-International Relations",
-        "title":"",
+        "company":"E-International Relations",
+        "title":"Editor",
         "years":"Em curso",
         "description":""
       },
@@ -96,9 +96,9 @@
       },
       {
         "company":"Central Exportaminas / Governo de Minas Gerais",
-        "title":"",
+        "title":"Gestor da Agenda de Inovação e Diversificação da Pauta Exportadora",
         "years":"2012-2015",
-        "description":"Belo Horizonte, MG, Brasil"
+        "description":"Responsável pela organização do projeto de internacionalização de jovens empresas de base tecnológica Born to be Global.  Belo Horizonte, MG, Brasil"
       },
       {
         "company":"Mini ONU - Modelo Intercolegial das Nações Unidas",
@@ -120,7 +120,7 @@
         "level":"60%"
       },
       {
-        "name":"Olhares derridianos sobre de construção das identidades catalã e espanhola ao longo do século XX",
+        "name":"Olhares derridianos sobre a desconstrução das identidades catalã e espanhola ao longo do século XX",
         "level":"85%"
       },
       {
