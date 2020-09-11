@@ -37,27 +37,30 @@
         "school":"Instituto de Relações Internacionais / Pontifícia Universidade Católica do Rio de Janeiro (IRI / PUC-Rio)",
         "degree":"Doutorando em Relações Internacionais",
         "graduated":"Em curso",
-        "description":"Tese: O Eu e o Outro na construção das identidads catalã e espanhola ao longo do século XX: um olhar derridiano (orientador: Roberto Vilchez Yamato) Rio de Janeiro, RJ, Brasil"
+        "description":"Tese: O Eu e o Outro na construção das identidads catalã e espanhola ao longo do século XX: um olhar derridiano (orientador: Roberto Vilchez Yamato)",
+        "location":"Rio de Janeiro, RJ, Brasil"
 						   
       },
       {
         "school":"Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
         "degree":"Mestrado em Relações Internacionais",
         "graduated":"2017 ",
-        "description":"Dissertação: Ecos de Gazimestan: a construção do discurso dos jornais The Guardian e The New York Times sobre o ex-líder s'’vio Slobodan Milosevic durante a Guerra do Kosovo (supervisor: Cristiano Mendes) DOI: 10.13140/RG.2.2.31358.61766 Belo Horizonte, MG, Brazil"
-						   
+        "description":"Dissertação: Ecos de Gazimestan: a construção do discurso dos jornais The Guardian e The New York Times sobre o ex-líder s'’vio Slobodan Milosevic durante a Guerra do Kosovo (supervisor: Cristiano Mendes) DOI: 10.13140/RG.2.2.31358.61766",
+				"location":" Belo Horizonte, MG, Brazil"
       },
       {
         "school":"IBMEC ",
         "degree":"CBA Comércio Internacional ",
         "graduated":"2013",
-        "description":"Belo Horizonte, MG, Brasil"
+        "description":"",
+        "location":" Belo Horizonte, MG, Brazil"
       },
       {
         "school":"Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
         "degree":"Graduação em Relações Internacionais",
         "graduated":"2010 ",
-        "description":"Monografia: A Terceira Via e a construção de um novo trabalhismo: renovação da social-democracia mundial ou pragmatismo oportunista? (orientador: Cristiano Mendes) Belo Horizonte, MG, Brasil"
+        "description":"Monografia: A Terceira Via e a construção de um novo trabalhismo: renovação da social-democracia mundial ou pragmatismo oportunista? (orientador: Cristiano Mendes)",
+        "location":" Belo Horizonte, MG, Brazil"
       }
     ],
     "work":[
