@@ -6,7 +6,7 @@ class Header extends Component {
 
     if(this.props.data){
        var project = this.props.data.project;
-       var github = this.props.data.github;
+       var lattes = this.props.data.lattes;
        var researchGate = this.props.data.researchGate;
        var academia = this.props.data.academia;
       var name = this.props.data.name;
@@ -43,10 +43,10 @@ class Header extends Component {
             <hr />
             <ul className="social">
                
-               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>ORCID</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-book"></i>Lattes</a>
-               <a href={researchGate} className="button btn research-gate-btn"><i className="fa fa-book"></i>ResearchGate</a>
-               <a href={academia} className="button btn academia-btn"><i className="fa fa-book"></i>Academia.edu</a>
+               <a href={project} className="button btn project-btn"><img className="socialImg" src={'images/icons/orcidid.png'}></img>ORCID</a>
+               <a href={lattes} className="button btn lattes-btn"><img className="socialImg" src={'images/icons/lattes.png'}></img>Lattes</a>
+               <a href={researchGate} className="button btn research-gate-btn"><img className="socialImg" src={'images/icons/researchgate.png'}></img>ResearchGate</a>
+               <a href={academia} className="button btn academia-btn"><img className="socialImg" src={'images/icons/academiaedu.png'}></img>Academia.edu</a>
             </ul>
          </div>
       </div>

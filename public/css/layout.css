@@ -1049,15 +1049,30 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .project-btn{
    background-color: #1abc9c !important;
+   border-radius: 0.8rem;
 }
-.github-btn{
+.lattes-btn{
    background-color: #34495e !important;
    /* margin-right: 18px; */
+   border-radius: 0.8rem;
 }
 .research-gate-btn{
    background-color: #1abc9c !important;
    /* margin-right: 18px; */
+   border-radius: 0.8rem;
 }
 .academia-btn{
    background-color: #34495e !important;
+   border-radius: 0.8rem;
+}
+
+.socialImg {
+   width:  13px;
+   height:  13px;
+   border-radius: 50%;
+   
+   position: relative;
+   display: inline;
+   
+   margin-right: 10px;  
 }
